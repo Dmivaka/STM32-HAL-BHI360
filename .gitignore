@@ -1,6 +1,3 @@
 !EWARM/
-EWARM/*
-!EWARM/*.ewp
-!EWARM/*.eww
 
 Drivers/
